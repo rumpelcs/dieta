@@ -5,7 +5,9 @@
 Este repositório também tem um app (React + Vite) para acompanhar a dieta no dia a dia, com sugestões de refeição e memória do que já foi comido.
 
 ```bash
-npm install
+abrir cmd
+downloads
+dieta-jose
 npm run dev
 ```
 
