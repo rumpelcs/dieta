@@ -6,9 +6,7 @@ Este repositório também tem um app (React + Vite) para acompanhar a dieta no d
 
 ```bash
 abrir cmd
-downloads
-dieta-jose
-npm run dev
+colar: cd %userprofile%\Downloads\dieta-jose && npm run dev
 ```
 
 Depois é só abrir `http://localhost:5173` no navegador. O histórico de refeições fica salvo automaticamente no `localStorage` do navegador.
