@@ -1,5 +1,16 @@
 # Macros da Dieta
 
+## 🚀 Como rodar a UI
+
+Este repositório também tem um app (React + Vite) para acompanhar a dieta no dia a dia, com sugestões de refeição e memória do que já foi comido.
+
+```bash
+npm install
+npm run dev
+```
+
+Depois é só abrir `http://localhost:5173` no navegador. O histórico de refeições fica salvo automaticamente no `localStorage` do navegador.
+
 > **Observação:** os valores abaixo são **estimativas**. Podem variar conforme marca dos alimentos, tipo de preparo e tamanho real das porções. Os pesos de arroz, feijão, massa, carnes e legumes são considerados **já preparados/cozidos**, salvo indicação contrária.
 
 ## 🍳 Café da manhã
