@@ -9,7 +9,7 @@ abrir cmd
 colar: cd %userprofile%\Downloads\dieta-jose && npm run dev
 ```
 
-Depois é só abrir `http://localhost:5173` no navegador. O histórico de refeições fica salvo automaticamente no `localStorage` do navegador.
+Depois é só abrir `http://localhost:5180` no navegador. O histórico de refeições fica salvo automaticamente no `localStorage` do navegador.
 
 > **Observação:** os valores abaixo são **estimativas**. Podem variar conforme marca dos alimentos, tipo de preparo e tamanho real das porções. Os pesos de arroz, feijão, massa, carnes e legumes são considerados **já preparados/cozidos**, salvo indicação contrária.
 
